@@ -10,9 +10,13 @@
 
 int main(int argc, const char * argv[])
 {
-
-    // insert code here...
-    printf("Hello, World!\n");
+    // Printing the beginning of the novel
+    printf("It was the best of times.\n");
+    printf("It was the worst of times.\n");
+    
+    /* Is this actually any good?
+       Maybe it needs a rewrite. */
+    
     return 0;
 }
 
